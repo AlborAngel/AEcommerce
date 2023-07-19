@@ -1,0 +1,27 @@
+table {
+  text-align: left;
+  color: darkred;
+}
+
+table td , table th {
+  border: 1px solid darkred;
+  padding: 10px;
+  min-width: 160pxs;
+}
+
+th {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-color: #fab322;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+button {
+  background-color: rgb(116, 1, 1);
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+}

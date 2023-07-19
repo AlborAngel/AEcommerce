@@ -1,0 +1,102 @@
+{
+  "seller": [
+    {
+      "name": "Angel Albornoz",
+      "email": "albor55@comprador.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Martin Diaz",
+      "email": "diaz22@comprador.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Martin",
+      "password": "54321º",
+      "email": "martin@comprador.com",
+      "id": 3
+    },
+    {
+      "name": "Jose",
+      "password": "989898",
+      "email": "jose@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jose",
+      "password": "5432",
+      "email": "Jose@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Martin",
+      "password": "1234",
+      "email": "martin@comprador.com",
+      "id": 6
+    },
+    {
+      "name": "Mila",
+      "password": "212121",
+      "email": "mila@comprador.com",
+      "id": 7
+    },
+    {
+      "name": "Kim",
+      "password": "asdfr",
+      "email": "kim@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Mila",
+      "password": "212122",
+      "email": "mila@comprador.com",
+      "id": 9
+    },
+    {
+      "name": "Mila",
+      "password": "212121",
+      "email": "mila@comprador.com",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung note 20",
+      "price": "1600",
+      "category": "Smartphones",
+      "color": "red",
+      "description": "ultimo de samsung",
+      "image": "https://www.manual.ar/thumbs/products/l/1260238-samsung-galaxy-note-20.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone 14",
+      "price": "1000",
+      "category": "s",
+      "color": "",
+      "description": "",
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "Ipad Pro",
+      "price": "1300",
+      "category": "Tablets",
+      "color": "Gris",
+      "description": "Memoria ram 256gb",
+      "imagen": "https://www.macstation.com.ar/img/productos/2433-2427-1.jpg",
+      "id": 3
+    },
+    {
+      "name": "MacBook Pro",
+      "price": "2000",
+      "category": "Notebooks",
+      "color": "Gris",
+      "description": "Memoria Ram 1tr",
+      "imagen": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQSEhgWFRUZGBgSGBoSEhQZFhIcGBgcGBgaGRwaGBgeIy4lHB4rHxgYJjgmLy8xNTU1HyQ7QDszPzw0NTEBDAwMEA8QHhISHzQsISs/MTY0MTYxNDQxNT84MTQ/NjE2NDE0NDQ0NDQ/MT82NDQ0NDE0NDQ1NDE0NDE0MTQ/Mf/AABEIAMUBAAMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgECAwQFBwj/xABEEAACAQIDAwYKCAUDBQEAAAABAgADEQQSIQUTMRRBUWGS0QYXIiNSVHGBkZMHMkJTYqGx0hUzY4LBFiSiQ3KDsuE0/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAKxEBAAIBAQYFBAMBAAAAAAAAAAECAxEEBRIhMVETFUFhkRRSYnFCgaEi/9oADAMBAAIRAxEAPwD2aIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICcnwj23TwGGfEVAStO1wBqSzBQB7yJ1pwPDfZ/Kdm4mmBctSZlH4kGdf+SiBAm+mujfTCVCOt0H5ay3x2UvU6nzF7pCPA+qGospAJVr6gHQgW/MGSNVT0F7InTXZ5tWLRL1MG7PFpF4t19nU8dtP1N/mL3R47aXqb/MXumiiqOCj4CZ1qgcUQ+1F7pW2C0dGs7nt6W/xm8dtL1R/mL3R47qXqj/MXumbCYlFNwqg84KqVPt0kkwzUai3CJfnGVNPy4TOKTrpPKXFtOxZMPOecd0V8d9L1R/mL3R476Xqj/MXukv5PT9BOwndKjD0/QTsJ3SfDcSH+O+l6o/zF7o8d1L1R/mL3SZChT9BOwndKtQp+gnYTukcCY1lDPHdS9Uf5i90eO+l6o/zF7pMloU/QTsJ3TKtGkfsU+wndI4V+CUI8d9L1R/mL3R47qXqj/MXuk3ahS9BOwndLNxT+7TsL3SNFoxTKF+O6l6o/wAxe6V8d1L1R/mL3SZtQpc6J2E7prNRpk/UTsJ3RELxs8z6op47qXqj/MXulfHdS9Tf5i90kdSnSAuUTsL3Tn1qiH6qIB/2Jf8ASTwtabFe/SXM8d1L1R+2vdKr9NlG+uFqAdToe6bDUUPFF7KyI/SI6ph0VQoNR76AAlVU3/NlkTC+XYPDpNpnp7PbfBzbVPH4ZMRTBC1L2DDUFWKkH2EGdacDwI2fybZuGpkWK0kZx+Jxnb/kxnfkPPIiICIiAiIgIiICWsoIIPA6GXRA+Zdm0OS47E4c6Cm7oL/gchfiDeSBas1/pKwvJ9uFhwxCpVHR5S7s/mhPvmuKs9fYa8ePTtL3N3ZtMXD2l1UrdczCqJyFeXpVI5502wavTrldYOOmZqeIZDdSQekEg/ETkLXMzJiJjbZ5aRaLcpSXC+EDro4zDp0Df/Z18HtJKuimx9E6H3SDb2XJXIIIJBGoIOomc7Nr0cebd+HJrNY0n26PRM0oXnB2VtwVLI9g/BW4Bvb0H9fynWZ5yXx2pOlnk22W2O2lo5tgPLXqzVasJjNWZW5NKYOest9akNWtNAVZjeteUbRh1luvXvML4i01GqTXepeG1MGq+tWLH9BMV5bmi8to6orERpC6QjwqonFbSwuGGoYop/8AI9m/4gGTW8jngRQ5V4Rs/EYYVH6vIUUR+bAytujg3jbhxad5e6qoAsOA0l0RKPDIiICIiAiIgIiICIiB479PGBI5LiB9kvQY+2zp+jyFLiVYA9Iv8Z699L2z9/smqQLtQZK69WVsrHsM88PwFW9Iey3w0nqbrt/3Nf7+HVsmSazMOpnHTK70jnmjmlc09vk7vHmG6MUw5/ylwxjdA/Oc/eGN9LxFJ6wt9TPd1E2h0r8DNinjFbnsegziCoDGaJw0no1rtdo90gLzv7H23mslQ68EYn8mP6GQiliiunETYXEKef4zHJslb14Z+W856ZI0l6M7zGasiOG2w6CzHMOY849/PNv+J34GeTfd2WJ09GlMdJSI1pY1eR47R65T+IjpkRu7I08OHcatMZqzkDHCUbHCWjYL9kxV197G/HTOI2OmN8UTxm1d3z6p0h2MRtAIrNzICxPUBeZPoIwRbleJbUsy0QevV3/9kkR25jsuHe3Fhl7RsfyvPV/oi2fuNk0iRZq7PXbrzNlU9lVnBt+OMV4rHZ4m9LxN4rHpz+U4iInC8oiIgIiICIiAiIgIiIGjtjBDEYerRPCtTekf71K/5nytgquQFW0Kk6H4EfET62njfhB4K4WtiqlRaOQO7EqrVACbm72BsCTrYWE1w5bYr8UJrbhnWHm3Kl9IfGU5UvpD4ycf6Lw/3bdur+6W/wCh8P6NT5h7p2eY5O0L+LZBzil6R8ZTlS+kJKn+j8Em1ZwLmwyA2HML31lPF9/XfsDvk+Y5O0I45RblC+kPjL1xQH2hJN4vv679gd8eL/8Arv2B3yY3nkjpEEXmOiODGL0j4y8YpPSHxkg8X/8AXfsDvmZfAlgABXaw0Hm059OM0je+WOsQvGe0I4uNUcHHxmVdpKOJHuM7j+A7EEGu1jx82o/T2TH4v/679gd8tG+Mn2w0rtmSvRz12jTP2x7zK/xCn6a/ETf8X/8AXfsDvjxf/wBd+wO+POL/AGw2jeOTtDQ/iFP0x8RLTtGn6Y+M6Pi+/rv2B3yqfR+ARes5FxcZALjnF76R5zk+2DzHJ2hyztJfTHxEsO0F9MfGSb/RGH9Gp8w90u/0Xh/u27dX90nzrJ9sM527JKEbVxO8VUU3LHgOngB8TPqDY+CGHw1KiOFGmlIf2KF/xPKPB/wVwtHFU6jUc4R1IVmqEA3FnsTYkHWxuJ7JPN2naLZ8k3tGjmyZJvbilWIic6hERAREQEREBERAREQE85xpYF8p1BbLwvfNpPRp53tFLioACSc4A9/NJgecYfH7TL0xvMTqyCpmqLbiL214cZl5dtHf1BUqYoIM+Tdut8wY5b5jbLb/ABI/gMBVzUxuKgIdT/IfpTi1uHH2W65nx2Hr7yqN1V/mNa1KobjM+oNv+349UlDq0MbtILapUxQa3APpe/PrwtLVxu0w5z1MUEOq+XqV6ePtmrtTC1uUVAadQCyWIo1GvpTvaw6Mx91pZtDDVr0/NVP/AM6H+VUPlZGspsNDew6ry1LcM66RP7TE6TqkWGxVe/nKu0ApAsVdNTmbNa/Nbd2683VMm0sXUBQ0K20StmFQu6WzXXKEI6s9/dI5Ww1UJh/N1Mt6l2NGodBUNiyAX1GtpiGGxHJVJo1L79r+bcm2RNbW4cZW88Xt+msZecTpDvDF4q197jrDic62F+mVXF4k/wDVx2mps66DpM4K4euaVcijUtnp5PNVBcXqahbX4W9l5dh8PWO/y0qhAoaHdVFuQ9K4CkcfrfAmUiunrLT6n8K/DupisSdBVxx6g6yq4zEHQVscSeADpI9s3D1zUUbmr/Lq5r06gsd1UsLka/Z+NpTZmHrb2h5qrc1Uzg0qgCjOliWIsRa56ppE6H1P4V+Ej5ZiPvsf21mahi6oLh6uOBCNlDObh9LWy8/Hjp0yGVMNXyMNzVz5rBNzU4WOua3TYWm7tTD1hXxHmqn8xslqVQhhnNyGAsNNeuW4/aFZ2jX+MfCRri6wdA9baIXMC9nTNlsdVv15fdK7VxdYITQrbQzGxTeOmU6jNfhplze+0i2OoYhXHmamtGiP5TnXcIDzcQbjqtK4jD4gLQJoVP5TX81UOu/r6EAXvYqfeJE21nXSFJy6zrpHwl74ypluKmL1uFOetxHXe04eKx+1N3StUrXyNntUF828e2bXjlycea04+IwVc0KZNCppUrf9KpfVMPY2tz2b4Gag2dVIa9GoPJJHmKpubaL9XS/TJvfi9Ij9QnLl8TTlEado0ezYEsSmY6krmva976z0eed7OSwpg3BBQEe+eiTOWRERICIiAiIgIiICIiAiIgJ57tAaVP77fGehSA464FQjQjOQeggyYHhXLGAXzl8yg6O2nEWPQdPzE3cPj3GGqkO1t7QH1jbVMSen8I+Eo218QAv+4q+Uit/PqHiOfytDx0m5sbbOINYA4iqRkqkqatQjyaFRgSCbGxAPuElDFR2kcuIyO5VaKm5bXXEYcG9utiJXA7SvUORnP+3rs12+0MPUJtb7Og1mzsrbtZq1Ab+od5WRHTPUtYug1ubMDc6TVqeENcKx5RUzXIyh6g0sTe4PTpaBfsXaBbEUArtc1EDDN0uB5NuIy2v75o0dqEqvlvnLDTNpaw675rzsbW25WXEYgDEVF3dV0RQ9SxAdlsLGy2AlmP29WFQefqL5mg4AepqzYek54HQksxJgae19pEV64LNdazqBm5g7g3+A/OX7W2iy1mDM1xTpEeVzmjTOt+axM2q+3a2XD5sRUUPSZmbPUOoxGIW5sbk2VR7AJRtvVzQpk16gzVqys2dybKmGI57kDOxt1mBr47aJG4zu4DUA1wdfr1OF/YJTEbRYYfDlmazPVuc3MDTvb4mbI29X3FQ7+octaiitnqXysmJOmtwDlU26hGH27XyV/P1GCUlZTnfQnEYcHLc3H1mF+cXgaq7RfkhYs1uUKpOY/duZfQ2gdziSjsVUUrEt01ANbe+Z8Dt2sXIGIqMNxWcjPU0ZcNUfgTxDKLHqBl2x9u12xFBd+5D1Kaupd7auFsQTZgR+sDW2btAk1cruQuGqMbtrcKt+HNe9o2FtBnxCAMftaBmufIc/45uqWUfCCvkU8pq5iwBXPU+rYG972OtxabO0tu11xFZVrVBlrVFUCpUFgHYWGtgNIGjszaLNUpDNqaiD6zZjd0FujnP59Ux42s5er5ZGVnOrtqQx0HXOttHbdYVWG/qLanSZQHfVmpUzYWOhOYm/tnL8IsQ1Q03ZizNh1LMTckh6o1PPoBrA9m2fwp/2frPQZAdnrpT/ALJPpEpIiJAREQEREBERAREQEREBILjDbeEWuM5HDmN+EnUhWL0FQ6G2c2I0NjwPVA8N/ilYBb5BmUMP9thNQeB+pOodsPT3BUIrPQLsyUMMGJz1kJuEH2UAPVeamDxqs6K+HoDOUsNxxV2A45gQLE2ImTaO1fOOpw9ArRNSlTG4ByqjvlW9+FySffLIZxtdlp0HUUkZqlQZxQw4IybrKc2TTKXJvLW2u3J2crTLCsqZuT4a5BSox1yc5UGX7W2gqVjRGHobuk10Xc3yl0Qsb3ubm3wEsx+0siU0XD4fJUp08Q67m4LsrDNx00J0gZf4w7piHfdOyCmRUNGgxJaoqlgxS5uDzxhtsPUZ8+6fJh3dSaOHbLkQZQLppl4W5rS3D7SUYauRh6F8lPODQsL75Rb63lCxB9s0KO2il8tDDjOpRvMjVW0I488DpbM2u9SrSR926kMAhoUCFHlnLYppqC1h03mDCbZdt0pNJlaoBu9zQ0zFATlyWGYaX6pqYfbRpuHShh1ZfqsKI0uLc56CZbT2vkYMuHwwKkMp3I0INweMDcxe2XXeqDSCrUYbvc0NcpYBsuSxsLi/XNjaO1Wp1ayIaSKLApuaAziwbLYJrqAbHntOXU2vmYs2HwxLEsx3I1JNyeMuxG2jUcu9DDszfWY0Rrpbp6oHQxW2HpsmQU1z4dHYrQoAnOhLXsnA8/NaUfbD06eHdAis4di60MOGutVlBBCXuAAI2rtJSKfmKBbk9AqNxcWKEnXNpbmEtobSFTD1C+HoEYcUxSG5tlFSrZra63uePPAp/GGGHVwtMNvnTMMPh72VKbAA5OYsTKPth3o1nIplxUpjMcPhi3l70tclDqSgvxm94NYyjVrbrE0aC4dFqV280VylVUZr8eAA+ElKPsdkenSFBmcFlTLU8pkV2XiOa7c/OYHnNTbddzdnRjoLtQwpOgsNSnMABD7ZxDjVkbdobXoYU5VXWwumgF+HXM+BxqPUpqaOGOd0VhuGGjMo0N+Ju3s0908qDYKMykUAVJVhlqcxsRwgSfBm+7J4nITw5zJ3IXRUZky2y5hltwtm0t1Wk0lUkREBERAREQEREBERAREQEjFXDq2YEfWJB485knnCyan2n9YEPp/R/gVZWCMShUpepXIGU3UWL8B0TJW8BcI7MSH8sszAVcQFuxJPkh7AanSS3LK5ZKEUxPgVhajs5VwXILZatdQSFCg2D24ARV8CMK2XyXGRFpjLUrr5KXy3s+p14yWZIyQIivgPhcjpkZlqBQ2arXJsrBhlJfTUCa3i4wP3Z+biP3ybKuglcsCEeLjA/dn5uI/fHi4wP3Z+biP3yb5YywIR4uMD92fm4j98eLjA/dn5uI/fJvljLAiVXwHwrZfIYZEWmuWriF8lBZb2bU254HgRhVR1ysQ+XMTVrlhkbOuUlrr5WukluWUZdDAidPwHwi5vJds6NSbNUrt5L2zAXfTgNZbhPATB0nV1Rs1O4S71iAGDXFi/4m+JkvySmWBDqHgBgqbIyo3m2DoDUrkBgVN7Zrcy/ASlb6P8ExYsjeWxdhvK4Uk31tmtzn4yZZZQpA1KWHVcoA+qQB7jJPOFk1HtH6zuyEkREBERAREQEREBERAREQE5GXU+0zrzmW1PtMmBZljLL7RaELLRaX2i0kYlGkraXKNItAttKWl9otAstFpfaLSBbaUYaS+0MNJIpaLS+0QLMsZZfaLQMeXUe0Trzl21HtnUkSkiIkBERAREQEREBERAREQE5vfOlOZiPIOt7cxCsf0EmBdKTX5cn4uxU/bHLk/F2Kn7YQ2Imvy1Pxdip+2U5an4uxU/bAzrwlZrcsTpb5dTujlidLfLqd0DYiarY5RzMfZTfulOXr0P8upA24mpy5eh/l1JVccp5nHtp1O6BtyjcJr8sX8Xy6ndHLE/F8up3QNqJr8sX8XYqftjlqfi7FT9sDYia/LU/F2Kn7Y5an4uxU/bA2Oj2zpTmYc5yLXtzkqw/UTpxKSIiQEREBERAREQEREBERAREQKWi0rEClotKxApaLSsQKWi0rEClotKxApaLSsQKWi0rEClotKxAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERED/9k=",
+      "id": 4
+    }
+  ]
+}
